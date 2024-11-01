@@ -15,7 +15,7 @@
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "next": "^14.2.3",
     "pdfjs": "^2.5.0",
-    "pdfjs-dist": "^2.14.305",
+    "pdfjs-dist": "^4.7.76",
     "react": "^18",
     "react-contenteditable": "^3.3.7",
     "react-dom": "^18",
@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "@types/node": "20.14.7",
+    "@types/pdfjs-dist": "^2.10.377",
     "@types/react": "18.3.3",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
