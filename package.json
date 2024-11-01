@@ -21,7 +21,8 @@
     "react-dom": "^18",
     "react-frame-component": "^5.2.6",
     "react-redux": "^9.0.4",
-    "tailwind-scrollbar": "^3.0.5"
+    "tailwind-scrollbar": "^3.0.5",
+    "update": "^0.4.2"
   },
   "devDependencies": {
     "@types/node": "20.14.7",
